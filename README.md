@@ -1,5 +1,5 @@
 # PyPrimes
-Python generated Prime numbers up to 4,295,000,000
+Python generated Prime numbers up to 4,295,500,000
 This is enough prime numbers to validate the primeness of any 64 bit number.
 Broken up into 500k chunks for ease of viewing and processing.
 
